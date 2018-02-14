@@ -1,0 +1,4 @@
+﻿quantity in shipping
+quantity in item order
+2018-01-28 00:00:00.000 date format to save from postman
+User 1 is follower (user) and User 2 is followee (artist) in tbl_Follow
